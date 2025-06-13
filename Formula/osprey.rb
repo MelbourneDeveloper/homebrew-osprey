@@ -5,7 +5,7 @@ class Osprey < Formula
   version "0.1.0"
   sha256 "60e40beda7be26b63a9ee9682f44d3b453b10dff843924daa205d91da1c86b47"
   
-  depends_on "llvm"
+
 
   livecheck do
     url :stable
